@@ -1,0 +1,13 @@
+Log parser 
+import project to eclipse IDE
+1-Click on file and choose open project from file system.
+2-Navigate to the log parser folder path.
+3-Choose the folder and click finish.
+
+Run the app in Eclipse IDE
+1-Open src folder and open the package.
+2-choose the Driver class.
+3-Right click on the Driver class and run as Java application.
+
+and then follow the steps to parse the log.
+Thank you.
